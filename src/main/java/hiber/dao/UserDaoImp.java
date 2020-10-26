@@ -29,14 +29,13 @@ public class UserDaoImp implements UserDao {
 
     @Override
     @SuppressWarnings("unchecked")
-    public User getUserByCars(String model, String series) {
+    public User getUserByModelAndSeries(String model, String series) {
         String hql = "from User where car.series =:series and car.model =:model";
         Query<User> query = sessionFactory.getCurrentSession()
                 .createQuery(hql)
                 .setParameter("series", series)
                 .setParameter("model", model);
-        List<User> users = query.list();
-        return (User) users;
+        return query.getSingleResult();
 
     }
 

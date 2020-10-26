@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88812e5b-9964-466f-bfdd-47df47b70fa8" name="Default" comment="" />
+    <list default="true" id="88812e5b-9964-466f-bfdd-47df47b70fa8" name="Default" comment="Java pre-project. Practical task 2.2.1">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/39d7c58a-52ad-4c0b-8078-a9d43cbfd1c4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/39d7c58a-52ad-4c0b-8078-a9d43cbfd1c4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/dao/UserDaoImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,15 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,11 +159,25 @@
       <workItem from="1602858275434" duration="979000" />
       <workItem from="1603127388642" duration="15242000" />
       <workItem from="1603436238053" duration="13082000" />
+      <workItem from="1603634953399" duration="1063000" />
+      <workItem from="1603636090245" duration="1134000" />
     </task>
+    <task id="LOCAL-00001" summary="Java pre-project. Practical task 2.2.1">
+      <created>1603635148894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603635148894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java pre-project. Practical task 2.2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java pre-project. Practical task 2.2.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="611" y="338" key="#Assign_Data_Sources" timestamp="1603620298963">
@@ -194,37 +212,37 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603554005238" />
-    <state x="170" y="34" key="CommitChangelistDialog2" timestamp="1603634900869">
+    <state x="170" y="23" width="1099" height="825" key="CommitChangelistDialog2" timestamp="1603635148316">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="170" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1603634900869" />
+    <state x="170" y="23" width="1099" height="825" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1603635148316" />
     <state x="526" y="358" key="Github.CreateGistDialog" timestamp="1603634581046">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="526" y="358" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1603634581046" />
-    <state x="547" y="354" key="Github.ShareDialog" timestamp="1603634744135">
+    <state x="547" y="354" key="Github.ShareDialog" timestamp="1603635682853">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="547" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1603634744135" />
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1603634918781">
+    <state x="547" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1603635682852" />
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom" timestamp="1603702581875">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603634918781" />
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603702581875" />
     <state width="1398" height="173" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1603401210375" />
-    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1603634918779">
+    <state width="1398" height="192" key="GridCell.Tab.0.center" timestamp="1603702581873">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603634918779" />
+    <state width="1398" height="192" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603702581873" />
     <state width="1398" height="173" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1603401210374" />
-    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1603634918779">
+    <state width="1398" height="192" key="GridCell.Tab.0.left" timestamp="1603702581872">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603634918779" />
+    <state width="1398" height="192" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603702581872" />
     <state width="1398" height="173" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1603401210373" />
-    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1603634918780">
+    <state width="1398" height="192" key="GridCell.Tab.0.right" timestamp="1603702581874">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603634918780" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603702581874" />
     <state width="1398" height="173" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1603401210374" />
     <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1603400903542">
       <screen x="0" y="23" width="1440" height="825" />
@@ -246,10 +264,14 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="208" y="23" width="1024" height="825" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1603400780639" />
-    <state x="611" y="344" width="346" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1603632622655">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603636099198">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="611" y="344" width="346" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1440.900@0.0.1440.900" timestamp="1603632622655" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603636099198" />
+    <state x="611" y="344" width="346" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1603702572988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="611" y="344" width="346" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1440.900@0.0.1440.900" timestamp="1603702572988" />
     <state x="606" y="344" width="334" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1603621453684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -262,6 +284,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1603634848507" />
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603635546173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603635546173" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603620182849">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
